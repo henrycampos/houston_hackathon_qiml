@@ -8,11 +8,11 @@ Obtain Rock Properties/Facies from Prestack Elastic Properties by Machine Learni
 
 ## Scope:
 
-## Tools Used
+## Data and Tools Used
 
 
 ## Results
 
 
 
-## Conculsion
+## Conclusion
